@@ -13,5 +13,7 @@ Technologies web :
 - Servlet & JSP
 - Wicket
 - Struts2
- JSF
+- JSF
+Application lourde
+Technologie Swing
 
